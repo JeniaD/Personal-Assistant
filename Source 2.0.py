@@ -65,7 +65,7 @@ def FindAnswer(s, c):
 
 def FindPage(s):
     try:
-        return wikipedia.page(s) #title, url, links[], content;
+        return wikipedia.page(s)
     except:
         return OnUserLang("No answer.")
 
