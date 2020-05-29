@@ -1,4 +1,4 @@
-This assistant is in-development. Made in 2020
+This assistant is in-development. Made in 2020.
 
 <h1>Main updates of versions:</h1>
 
